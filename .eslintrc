@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "rules": {
+    "arrow-parens": [
+      "error",
+      "as-needed"
+    ],
+    "quote-props": [
+      "error",
+      "consistent"
+    ]
+  },
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  }
+}

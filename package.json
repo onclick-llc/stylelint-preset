@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-preset",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Dustin Dowell",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
